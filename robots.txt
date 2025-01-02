@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://jonahoschwartz.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://Jonahoschwartz.github.io/sitemap.xml
