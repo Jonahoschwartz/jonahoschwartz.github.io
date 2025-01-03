@@ -86,8 +86,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Jonah Schwartz # blog_name will be displayed in your blog page
-blog_description: Biology and Breakfast Sandwitchs
+blog_name: Jonah O'Mara Schwartz # blog_name will be displayed in your blog page
+blog_description: Molecular Evolution, Synthetic Biology, and Breakfast Sandwiches
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
