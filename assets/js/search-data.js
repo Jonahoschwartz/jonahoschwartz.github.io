@@ -141,14 +141,14 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/jonahoschwartz/", "_blank");
+          window.open("https://www.linkedin.com/in/jonahoschwartz", "_blank");
         },
       },{
         id: 'social-x',
         title: 'X',
         section: 'Socials',
         handler: () => {
-          window.open("https://twitter.com/JonahOMaraSchwa1", "_blank");
+          window.open("https://twitter.com/JonahOMaraSchw1", "_blank");
         },
       },{
       id: 'light-theme',
