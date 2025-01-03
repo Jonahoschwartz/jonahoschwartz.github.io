@@ -137,11 +137,18 @@ ninja.data = [{
           window.open("mailto:%4A%73%63%68%77%61%72%74%7A%33%36[%61%74]%77%69%73%63.%65%64%75", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/jonahoschwartz/", "_blank");
+        },
+      },{
+        id: 'social-x',
+        title: 'X',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://twitter.com/JonahOMaraSchwa1", "_blank");
         },
       },{
       id: 'light-theme',
