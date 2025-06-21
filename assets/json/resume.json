@@ -1,7 +1,7 @@
 {
-  "basics": {
-    "name": "Jonah O'Mara Schwartz",
-    "label": "Ph.D. Student - Integrated Program in Biochemistry",
+  "Basics": {
+    "Name": "Jonah O'Mara Schwartz",
+    "Title": "Ph.D. Student - Integrated Program in Biochemistry",
     "image": "",
     "url": "",
     "summary": "Ph.D. student and protein engineer with extensive experience in synthetic biology, biochemical engineering, high-throughput protein screening, and molecular cloning.",
@@ -14,7 +14,7 @@
     },
     "profiles": []
   },
-  "work": [
+  "Work": [
     {
       "name": "Ginkgo Bioworks",
       "position": "Protein Engineer 2",
