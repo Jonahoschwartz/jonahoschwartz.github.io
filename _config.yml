@@ -263,8 +263,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [O'Mara Schwartz, O'Mara-Schwartz, Jonah O'Mara Schwartz]
-  first_name: [Jonah, Jonah K., Jonah O'Mara Schwartz]
+  last_name: [O'Mara Schwartz]
+  first_name: [Jonah]
 
   style: apa
   locale: en
