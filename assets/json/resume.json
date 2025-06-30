@@ -104,6 +104,13 @@
   "certificates": [],
   "publications": [
     {
+      "name": "Computation-guided redesign of promoter specificity of a bacterial {RNA} polymerase",
+      "publisher": "Bioarxiv Preprint",
+      "releaseDate": "2025-06-07",
+      "url": "https://www.biorxiv.org/content/10.1101/2022.11.29.518332v3",
+      "summary": "Engineering sigma 70 towards new promoter sequences"
+    },
+    {
       "name": "Establishment Limitation Constrains the Abundance of Lactic Acid Bacteria in the Napa Cabbage Phyllosphere",
       "publisher": "Applied and Environmental Microbiology",
       "releaseDate": "2019-06-01",
