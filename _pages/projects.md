@@ -3,7 +3,7 @@ layout: page
 title: projects
 permalink: /projects/
 description: Some science and art I work on
-nav: true
+nav: false
 nav_order: 3
 display_categories: [Science, Art]
 horizontal: false
