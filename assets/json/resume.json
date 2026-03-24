@@ -1,5 +1,5 @@
 {
-  "Basics": {
+  "basics": {
     "Name": "Jonah O'Mara Schwartz",
     "Title": "Ph.D. Student - Integrated Program in Biochemistry",
     "image": "",
@@ -14,7 +14,7 @@
     },
     "profiles": []
   },
-  "Work": [
+  "work": [
     {
       "name": "Ginkgo Bioworks",
       "position": "Protein Engineer 2",
