@@ -20,3 +20,5 @@ Prior to graduate school, I worked in the lab of Ben Wolfe at Tufts University, 
 
 Outside of lab I love to bike, fish, and make things (pottery, ceramics, bikes)
 
+
+
